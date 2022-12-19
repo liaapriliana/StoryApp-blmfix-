@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="daftar">Belum punya akun ?</string>
+    <string name="regAkun">Register Akun</string>
+    <string name="home">Home</string>
+    <string name="welcome">Welcome ,</string>
+    <string name="password_min_length">Password must be longer than 6 characters</string>
+    <string name="maps">MAPS</string>
+</resources>
